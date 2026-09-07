@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Placeholder for og-cover">
+  <title>og-cover placeholder, 1200 by 630, 1.90:1</title>
+  <defs>
+    <pattern id="h" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#c3c6c0" stroke-width="6"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#d9dbd6"/>
+  <rect width="1200" height="630" fill="url(#h)" opacity="0.5"/>
+  <rect x="28" y="28" width="1144" height="574" fill="none" stroke="#15171a" stroke-width="2.52" stroke-dasharray="12.32 12.32" opacity="0.55"/>
+  <g stroke="#15171a" stroke-width="4.032" fill="none" opacity="0.9">
+    <path d="M28 72 L28 28 L72 28"/>
+    <path d="M1128 28 L1172 28 L1172 72"/>
+    <path d="M1172 558 L1172 602 L1128 602"/>
+    <path d="M72 602 L28 602 L28 558"/>
+  </g>
+  <line x1="28" y1="28" x2="1172" y2="602" stroke="#15171a" stroke-width="2.52" opacity="0.18"/>
+  <line x1="1172" y1="28" x2="28" y2="602" stroke="#15171a" stroke-width="2.52" opacity="0.18"/>
+  <rect x="438" y="212.4" width="324" height="185.8" fill="#d9dbd6" opacity="0.94"/>
+  <text x="600" y="303.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="54" font-weight="700" fill="#15171a" letter-spacing="-1.08">og-cover</text>
+  <text x="600" y="363" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="32" fill="#15171a" opacity="0.72">1200 &#215; 630 px &#183; 1.90:1</text>
+</svg>
