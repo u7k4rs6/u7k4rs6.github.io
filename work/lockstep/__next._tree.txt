@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/182auflgu6ts4.css","style"]
+:HL["/_next/static/chunks/31duy3jhut_j_.css","style"]
 :HL["/_next/static/media/40a3cd74afdfe30c-s.p.1dczacay52j98.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/52b5d5098cb87ddd-s.p.3r2y_bth_sjsm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e2d642b99055ff6f-s.p.3d_jy-oqcno8c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/placeholders/project-lockstep-hero.webp","image",{"imageSrcSet":"/placeholders/project-lockstep-hero-w400.webp 400w, /placeholders/project-lockstep-hero-w640.webp 640w, /placeholders/project-lockstep-hero-w900.webp 900w, /placeholders/project-lockstep-hero-w1280.webp 1280w, /placeholders/project-lockstep-hero.webp 1594w","imageSizes":"92vw","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"work","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lockstep","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"nFp0sgIITryCo4A4jaAoO"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"work","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lockstep","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"SzBmRfFp7mAWvljZqLOyI"}
