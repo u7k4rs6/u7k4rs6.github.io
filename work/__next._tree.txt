@@ -4,4 +4,4 @@
 :HL["/_next/static/media/5f402bd2d8eef81a-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e2d642b99055ff6f-s.p.3d_jy-oqcno8c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/placeholders/project-blink-card.webp","image",{"imageSrcSet":"/placeholders/project-blink-card-w400.webp 400w, /placeholders/project-blink-card-w640.webp 640w, /placeholders/project-blink-card-w900.webp 900w, /placeholders/project-blink-card.webp 1239w","imageSizes":"(min-width: 1101px) 30vw, (min-width: 721px) 46vw, 90vw","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"work","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"SzBmRfFp7mAWvljZqLOyI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"work","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"sOcuxvNsZndLVVBpDpOQ7"}
